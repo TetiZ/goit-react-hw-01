@@ -14,6 +14,10 @@ created: vite react js
 - source map
 - author name and email
 - components folder
+
+!
+
+- npm i
 - modern normalize
 - react icons
 - clsx
