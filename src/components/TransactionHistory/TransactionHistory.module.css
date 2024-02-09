@@ -1,0 +1,23 @@
+.table {
+  width: 700px;
+  height: 360px;
+  border-collapse: collapse;
+}
+
+.table * {
+  border: 2px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+.title {
+  background-color: #333;
+  color: #fff;
+}
+
+.tableStrings {
+  text-transform: capitalize;
+}
+.tableStrings:nth-child(even) {
+  background-color: #c0c0c0;
+}
