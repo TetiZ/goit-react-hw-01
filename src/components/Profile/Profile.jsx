@@ -1,8 +1,6 @@
 // import css from "./Profile.module.css";
 
-export const Profile = ({
-  userData: { name, tag, location, image, stats },
-}) => {
+export const Profile = ({ name, tag, location, image, stats }) => {
   return (
     <div>
       <div>

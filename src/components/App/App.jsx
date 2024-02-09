@@ -1,5 +1,6 @@
-import userData from "../userData.json";
+import userData from "../../userData.json";
 import { Profile } from "../Profile/Profile";
+import css from "./App.module.css";
 
 export const App = () => {
   return (
